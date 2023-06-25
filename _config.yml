@@ -22,8 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "music.html"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Github, icon: github, url: "https://github.com/w8err"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/

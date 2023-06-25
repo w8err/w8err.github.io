@@ -5,19 +5,7 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
-collections:
-  main:
-    output: true
-    permalink: /main/:title/
-  writing:
-    output: true
-    permalink: /writing/:title/
-  develop:
-    output: true
-    permalink: /develop/:title/
-  sound:
-    output: true
-    permalink: /sound/:title/
+
 # Layout
 
 show_excerpts: true        # show article excerpts on the home page

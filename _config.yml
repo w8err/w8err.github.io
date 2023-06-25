@@ -1,5 +1,5 @@
 title: "무명의 슬기로운 기록"
-author: "Blog Author"
+author: "w8er"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
@@ -16,7 +16,6 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {url: "https://w8err.github.io"}
   - {file: "index.html"}
   - {file: "README.md"}
 

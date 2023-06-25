@@ -1,3 +1,4 @@
+\\<--
 ---
 title:  "Markdown examples"
 layout: post
@@ -83,3 +84,4 @@ function foo () {
 3. Third item
     1. First nested item
     2. Second nested item
+-->

@@ -30,3 +30,4 @@ comments:
 
 plugins:
  - jekyll-feed
+ - jekyll-tagging

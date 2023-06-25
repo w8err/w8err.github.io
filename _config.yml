@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "novel.html"}
   - {file: "develop.html"}
   - {file: "music.html"}
-  - {title: "#깃허브", url: "https://github.com/w8err", target: "_blank"}
+  - {title: "#깃허브", url: "https://github.com/w8err"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
